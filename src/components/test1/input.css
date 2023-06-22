@@ -1,0 +1,14 @@
+.no-border {
+    outline: none;
+    outline-color: aliceblue;
+    border: none;
+    height: 39px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    padding: 5px;
+  }
+  input:focus,
+  input:active {
+    border-color: transparent;
+    border-bottom: 2px solid #1c87c9;
+  }
